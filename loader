@@ -1,4 +1,4 @@
--- OMG CODIGO DE SYMPHONY HUB
+-- Real hub
 
 local o = tick()
 local j = game:GetService("CoreGui")
